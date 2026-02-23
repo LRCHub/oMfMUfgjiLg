@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スウィート・チャイルド・オブ・マイン",
+  "base_artist": "Guns N' Roses",
+  "createdAt": "2026-02-23T03:28:52.094693Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    }
+  ]
+}
